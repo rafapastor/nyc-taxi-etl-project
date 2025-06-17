@@ -1,0 +1,4 @@
+**/__pycache__/
+data/processed/yellow_tripdata_cleaned.parquet
+data/raw/yellow_tripdata_2023-01.parquet
+data/output/trips_summary.csv
